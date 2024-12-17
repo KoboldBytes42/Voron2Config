@@ -1,4 +1,4 @@
-#Voron 2.3 config
+# Voron 2.3 config #
 
 This is my Voron 2.4 config repo.
 
